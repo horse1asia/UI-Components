@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-This is just a quick Bootstrap starter kit for kicking starting a front-end web development project.
-Version: 3.3.4 of Bootstrap
+UI Components - Experiements for building UI for web applications
+Uses Version: 3.3.4 of Bootstrap
 =======
 
 April 19, 2015 
